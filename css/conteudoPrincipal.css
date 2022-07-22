@@ -1,0 +1,13 @@
+
+.conteudoPrincipal-cursos {
+
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+
+.conteudoPrincipal-cursos-link {
+
+    width: 20%;
+}
